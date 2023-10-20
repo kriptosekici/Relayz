@@ -109,7 +109,7 @@ mv node-cli-x64 node-cli
 chmod +x node-cli
 
 # ruesandora.testnet kısmını kendi cüzdan isminizle değiştirip enterleyin.
-./node-cli init ruesandora.testnet
+./node-cli init kriptobaby.testnet
 
 # çıkan 2 seçenek olacak, ilkini seçip yeni private key oluşturun.
 # komuttan sonra size bir link verecek (rengi pembe büyük ihtimalle), bunu oluşurduğunuz near cüzdanı sayfasında arama çubuğuna yapıştırın.
